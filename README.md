@@ -11,7 +11,7 @@ Here are the technologies used in this project.
 
 ## Services Used
 
-* Githu
+* Github
 
 ## Link
 
